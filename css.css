@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    box-decoration-break: slice;
+}
+body
+{
+    background-color: #54BAB9;
+    color:lavender;
+    box-sizing: content-box;
+   background-image: url("/images/main.png");
+    background-repeat: no-repeat;
+background-size:100% 100%;
+position: relative;
+
+top: -10%;
+image-resolution: from-image;
+
+
+}
+nav{
+   
+   
+    position: relative;
+    top:-20px;
+    display: inline;
+}
+div{
+    list-style-type: none;
+    margin:0;
+    color:black;
+    display: inline;
+font-weight: bolder;
+font-style: solid;
+font-family: 'Caveat', cursive;
+align-items: center;
+font-size:35px;
+position: relative;}
+li{
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2{
+   
+    color:#9C0F48;
+text-align: center;
+    font-weight:bold;
+    text-decoration: wavy;
+    font-family: 'Charm', cursive, fantasy;
+}
+main{
+    padding: 30PX;
+    margin:10PX;
+    width: 50%;
+    position: relative;
+    left:25%;
+    background-color: #FFE61B;
+    border-radius: 20px;
+}
+form{
+border-radius: 40px;
+    background-color: #0F044C;
+    padding:30px;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color:#9C0F48;
+    cursor: pointer;
+ 
+}
+a:visited{
+    color:darkblue;
+}
+a:link{
+color:firebrick;
+}
+a:active{
+    color:yellow;
+}
+img{
+   top:500%;
+    position: relative;
+    left: 40%;
+    right:35%;
+    border-radius: 50%;
+}
+#first{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+}
+#last{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+
+}
+#father{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+
+}
+#class{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+
+}
+#mobile{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+
+}
+#email{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+
+}
+#password{
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+border-inline-color: black;
+}
+
+
+button{
+    left:40%;
+    right:35%;
+    position: relative;
+    cursor: pointer;
+    background-color: whitesmoke;
+    border-radius: 20px;
+border-color: black;
+border-style: solid;
+border-inline-color: black;
+
+
+}
+
+
